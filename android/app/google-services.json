@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "411744160474",
+    "project_id": "secondfirebase-7a04e",
+    "storage_bucket": "secondfirebase-7a04e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411744160474:android:8d7499f7d53155b0a673e3",
+        "android_client_info": {
+          "package_name": "com.stalkcourse.second_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411744160474-nlbjjna1tmkgpfknjrlqvf2qt0mm7j4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABcY6dwBncm5IYoHaLlhkzf-o6TvdAXJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411744160474-nlbjjna1tmkgpfknjrlqvf2qt0mm7j4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
